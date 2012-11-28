@@ -1,0 +1,21 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"Anypreter",
+		"Close Oldest File",
+		"CoffeeScript",
+		"CTags",
+		"DetectSyntax",
+		"ERB Insert and Toggle Commands",
+		"Git",
+		"jQuery",
+		"Package Control",
+		"Rails Latest Migration",
+		"RSpec",
+		"RubyTest",
+		"SublimeLinter",
+		"Theme - Soda",
+		"TrailingSpaces"
+	]
+}

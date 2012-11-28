@@ -1,0 +1,5 @@
+*.pyc
+*.last-run
+*.sublime-workspace
+*.sublime-project
+
