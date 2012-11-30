@@ -17,6 +17,10 @@
     "command": "close_other_tabs"
   },
   {
+    "keys": ["alt+shift+a"],
+    "command": "git_blame"
+  },
+  {
     "keys": ["ctrl+shift+."],
     "command": "erb",
     "context":
