@@ -17,6 +17,10 @@
     "command": "close_other_tabs"
   },
   {
+    "keys": ["ctrl+shift+t"],
+    "command": "open_recent_files"
+  },
+  {
     "keys": ["alt+shift+a"],
     "command": "git_blame"
   },
@@ -35,5 +39,9 @@
   {
     "keys": ["ctrl+shift+x"],
     "command": "anypreter"
+  },
+  {
+    "keys": ["ctrl+shift+z"],
+    "command": "redo"
   }
 ]
