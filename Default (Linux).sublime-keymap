@@ -43,5 +43,8 @@
   {
     "keys": ["ctrl+shift+z"],
     "command": "redo"
-  }
+  },
+
+  { "keys": ["ctrl+shift+alt+r"], "command": "run_single_ruby_test" }, // single test
+  { "keys": ["ctrl+shift+r"], "command": "run_all_ruby_test" } // test file
 ]
