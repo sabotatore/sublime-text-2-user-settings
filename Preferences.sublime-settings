@@ -35,7 +35,8 @@
 		"bin",
 		"script",
 		"tmp",
-		"public/assets"
+		"public/assets",
+		"coverage"
 	],
 	"font_face": "Ubuntu Mono",
 	"font_options":
