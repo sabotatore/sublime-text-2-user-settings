@@ -26,13 +26,11 @@
 	],
 	"folder_exclude_patterns":
 	[
-		"data",
 		".git",
 		".sass-cache",
 		".bundle",
 		"bundle",
 		".rbx",
-		"bin",
 		"script",
 		"tmp",
 		"public/assets",

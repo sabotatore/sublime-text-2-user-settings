@@ -41,6 +41,17 @@
             </dict>
         </dict>
         <dict>
+          <key>name</key>
+          <string>coverage.uncovered</string>
+          <key>scope</key>
+          <string>coverage.uncovered</string>
+          <key>settings</key>
+          <dict>
+            <key>foreground</key>
+            <string>#75715E</string>
+          </dict>
+        </dict>
+        <dict>
             <key>name</key>
             <string>String</string>
             <key>scope</key>

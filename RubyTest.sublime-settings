@@ -1,3 +1,5 @@
 {
-  "ignored_directories": [".git", "vendor", "tmp", "public"]
+  "ignored_directories": [".git", "vendor", "tmp", "public"],
+  "check_for_rvm": true,
+  "check_for_bundler": true
 }
